@@ -1,0 +1,25 @@
+{
+  "name": "serverless-functions",
+  "version": "1.0.0",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "main": "index.js",
+  "dependencies": {
+    "netlify-cli": "^8.0.3"
+  },
+  "devDependencies": {
+    "node-fetch": "^2.6.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavana-netlify/serverless-functions.git"
+  },
+  "author": "bhavana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhavana-netlify/serverless-functions/issues"
+  },
+  "homepage": "https://github.com/bhavana-netlify/serverless-functions#readme"
+}
